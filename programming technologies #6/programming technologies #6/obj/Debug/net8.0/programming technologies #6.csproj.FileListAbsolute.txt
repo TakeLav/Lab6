@@ -1,0 +1,23 @@
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\obj\Debug\net8.0\programming technologies #6.csproj.AssemblyReference.cache
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\obj\Debug\net8.0\programming technologies #6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\obj\Debug\net8.0\programming technologies #6.AssemblyInfoInputs.cache
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\obj\Debug\net8.0\programming technologies #6.AssemblyInfo.cs
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\obj\Debug\net8.0\programming technologies #6.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\bin\Debug\net8.0\programming technologies #6.exe
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\bin\Debug\net8.0\programming technologies #6.deps.json
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\bin\Debug\net8.0\programming technologies #6.runtimeconfig.json
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\bin\Debug\net8.0\programming technologies #6.dll
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\bin\Debug\net8.0\programming technologies #6.pdb
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\bin\Debug\net8.0\Moq.dll
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\obj\Debug\net8.0\programming technologies #6.csproj.CopyComplete
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\obj\Debug\net8.0\programming technologies #6.dll
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\obj\Debug\net8.0\refint\programming technologies #6.dll
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\obj\Debug\net8.0\programming technologies #6.pdb
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\obj\Debug\net8.0\programming technologies #6.genruntimeconfig.cache
+C:\Users\pavlo\source\repos\programming technologies #6\programming technologies #6\obj\Debug\net8.0\ref\programming technologies #6.dll
